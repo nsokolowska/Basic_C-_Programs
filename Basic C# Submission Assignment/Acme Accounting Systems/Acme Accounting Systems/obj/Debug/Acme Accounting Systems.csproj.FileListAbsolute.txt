@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe.config
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\bin\Debug\Acme Accounting Systems.pdb
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Basic C# Submission Assignment\Acme Accounting Systems\Acme Accounting Systems\obj\Debug\Acme Accounting Systems.pdb
