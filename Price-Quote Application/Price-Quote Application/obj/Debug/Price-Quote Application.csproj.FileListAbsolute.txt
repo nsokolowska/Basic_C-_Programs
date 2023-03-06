@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe.config
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\bin\Debug\Price-Quote Application.pdb
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Price-Quote Application\Price-Quote Application\obj\Debug\Price-Quote Application.pdb
