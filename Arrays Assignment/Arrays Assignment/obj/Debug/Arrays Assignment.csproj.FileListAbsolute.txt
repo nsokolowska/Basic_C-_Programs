@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.exe.config
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\bin\Debug\Arrays Assignment.pdb
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Arrays Assignment\Arrays Assignment\obj\Debug\Arrays Assignment.pdb
