@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe.config
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\bin\Debug\Exception Handling.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\bin\Debug\Exception Handling.pdb
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\Exception Handling.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\Exception Handling.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Handling\Exception Handling\obj\Debug\Exception Handling.pdb
