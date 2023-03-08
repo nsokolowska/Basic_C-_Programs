@@ -22,7 +22,7 @@ namespace Console_App_Assignment
             
             //user input
             Console.WriteLine("Hello, tell me first thing that comes to your mind ");
-            Console.ReadLine();
+            
             string firstThing = Console.ReadLine();
             
             while(firstThing.Length <= 1)
