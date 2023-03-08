@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\bin\Debug\Exception Assignment.exe.config
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\bin\Debug\Exception Assignment.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\bin\Debug\Exception Assignment.pdb
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\obj\Debug\Exception Assignment.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\obj\Debug\Exception Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\obj\Debug\Exception Assignment.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\Exception Assignment\Exception Assignment\obj\Debug\Exception Assignment.pdb
