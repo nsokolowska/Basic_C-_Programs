@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\bin\Debug\ClassesAndMethods_Assignment.exe.config
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\bin\Debug\ClassesAndMethods_Assignment.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\bin\Debug\ClassesAndMethods_Assignment.pdb
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\obj\Debug\ClassesAndMethods_Assignment.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\obj\Debug\ClassesAndMethods_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\obj\Debug\ClassesAndMethods_Assignment.exe
+C:\Users\Natalia Sokolowska\OneDrive\Pulpit\Basic_C#_Programs\ClassesAndMethods_Assignment\ClassesAndMethods_Assignment\obj\Debug\ClassesAndMethods_Assignment.pdb
