@@ -8,11 +8,13 @@ namespace ClassesAndMethods_Assignment
 {
     class Program
     {
-        static void Main(string[] args)
+         static void Main()
         {
             Console.WriteLine("Please enter a number");
             string uNumber = Console.ReadLine();
-            MathMethods.Method1();
+            MathMethods math1 = new MathMethods() {};
+            
+       
         }
     }
 }
