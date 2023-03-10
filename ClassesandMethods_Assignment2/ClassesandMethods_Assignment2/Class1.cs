@@ -8,15 +8,10 @@ namespace ClassesandMethods_Assignment2
 {
     class Class1
     {
-        public static int Add(int num1, params string[] num2)
+        public static int Add(int num1, int num2=1)
         {
-            int total = num1;
-            foreach (string number in num2)
-            {
-                int i = Convert.ToInt32(number);
-                total +=i ;
-            };
-            
+            int total = num1 + num2;
+                       
             Console.WriteLine("This is " + total + " in total");
             Console.ReadLine();
             return total;
