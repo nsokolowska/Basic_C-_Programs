@@ -12,7 +12,8 @@ namespace ClassesandMethods_Assignment_3
         {
             int num1 = Convert.ToInt32(Console.ReadLine());
             int num2 = Convert.ToInt32(Console.ReadLine());
-            Class1.MathOperation(num1: 20, num2: 10);
+            Class1 newClass = new Class1();
+            newClass.MathOperation(num1, num2);
         }
     }
 }
