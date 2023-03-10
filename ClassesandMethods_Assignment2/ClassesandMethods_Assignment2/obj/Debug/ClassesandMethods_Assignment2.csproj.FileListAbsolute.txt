@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\obj\Debug\ClassesandMethods_Assignment2.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\obj\Debug\ClassesandMethods_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\bin\Debug\ClassesandMethods_Assignment2.exe.config
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\bin\Debug\ClassesandMethods_Assignment2.exe
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\bin\Debug\ClassesandMethods_Assignment2.pdb
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\obj\Debug\ClassesandMethods_Assignment2.exe
+C:\Users\Natalia Sokolowska\source\repos\ClassesandMethods_Assignment2\ClassesandMethods_Assignment2\obj\Debug\ClassesandMethods_Assignment2.pdb
