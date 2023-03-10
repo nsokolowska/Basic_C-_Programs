@@ -8,23 +8,33 @@ namespace ClassesAndMethods_Assignment
 {
     public class MathMethods
     {
-        public static int Method1(int uNumber)
+        public int Method1(int uNumber)
         {
             int myNumber = 345;
-            int changedNumber = Convert.ToInt32(uNumber);
-            int result = myNumber + uNumber;
+            int result = myNumber + Convert.ToInt32(uNumber);
             Console.WriteLine(result);
             Console.ReadLine();
             return result;
         }
 
-        public static decimal Method1(decimal uNumber)
+        public decimal Method1(decimal uNumber)
         {
             int myNumber1 = 2000;
-            decimal decimalNumber = Convert.ToDecimal(uNumber);
-            int result1 = (int)(myNumber1 - uNumber);
-            Console.WriteLine(result1);
-            return result1;
+            int result = (int)(myNumber1 - Convert.ToDecimal(uNumber));
+            Console.WriteLine(result);
+            Console.ReadLine();
+            return result;
+        }
+
+        public string Method1(string uNumber)
+        {
+            int myNumber = 25;
+            int newNumber = Convert.ToInt32(uNumber);
+            int firstresult = myNumber * newNumber;
+            string result = firstresult.ToString();
+            Console.WriteLine(result);
+            Console.ReadLine();
+            return result;
         }
     }
 }
