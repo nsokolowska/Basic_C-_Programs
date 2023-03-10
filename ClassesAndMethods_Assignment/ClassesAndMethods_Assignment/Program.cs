@@ -11,13 +11,15 @@ namespace ClassesAndMethods_Assignment
         public static void Main()
         {
 
-            //int uNumber = 10;
-            decimal uNumber = 15.5m;
-            // uNumber = "100";
+            int intNumber = 25;
+            decimal decimalNumber = 15.5m;
+            string stringNumber = "100";
 
             MathMethods math1 = new MathMethods();
-            math1.Method1(uNumber);
-            
+            math1.Method1(intNumber);
+            math1.Method1(decimalNumber);
+            math1.Method1(stringNumber);
+
 
         }
     }
