@@ -13,7 +13,7 @@ namespace ClassesandMethods_Assignment2
             Console.WriteLine("Hello, this is simple program. \n Please enter two numbers");
             Console.ReadLine();
             Console.WriteLine("You don't need to enter second number if you don't want to");
-            Class1.Add(Convert.ToInt32(Console.ReadLine()), Console.ReadLine());
+            Class1.Add(Convert.ToInt32(Console.ReadLine()), Convert.ToInt32(Console.ReadLine()));
           
         }
     }
