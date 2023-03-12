@@ -14,6 +14,7 @@ namespace Inheritance_Assignment
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+            employee.Quit();
             Console.ReadLine();
             
         }
