@@ -1,0 +1,7 @@
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\obj\Debug\Abstract_Classes Assignment.csproj.AssemblyReference.cache
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\obj\Debug\Abstract_Classes Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\bin\Debug\Abstract_Classes Assignment.exe.config
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\bin\Debug\Abstract_Classes Assignment.exe
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\bin\Debug\Abstract_Classes Assignment.pdb
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\obj\Debug\Abstract_Classes Assignment.exe
+C:\Users\Natalia Sokolowska\source\repos\Abstract_Classes Assignment\Abstract_Classes Assignment\obj\Debug\Abstract_Classes Assignment.pdb
