@@ -15,5 +15,6 @@ namespace Inheritance_Assignment
             Console.WriteLine("Name: " + FirstName + " " + LastName);
 
         }
+        
     }
 }
