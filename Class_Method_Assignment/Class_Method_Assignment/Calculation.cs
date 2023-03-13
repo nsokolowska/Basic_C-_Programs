@@ -13,14 +13,29 @@ namespace Class_Method_Assignment
             int total = number / 2;
             Console.WriteLine("The number: " + number + " divied by 2 equals " + total);
             Console.ReadLine();
-            Calculation.NextOperation(total);
+            
+            
         }
-        public static void NextOperation(int total)
+        public static void Division(decimal decimalNumber)
         {
-            int result = (total + 34) / 4;
-            Console.WriteLine("The result previous calculation plus thirty four and divided by four equals  " + result);
+            decimal total = decimalNumber / 2;
+            Console.WriteLine("The number: " + decimalNumber + " divied by 2 equals " + total);
             Console.ReadLine();
             
+
+        }
+        public static void NewOperation(out int number)
+        {
+            int newNumber = 10;
+            number = newNumber;
+            number += number * 2;
+                                  
+        }
+        public static void NewOperation(out decimal decimalNumber)
+        {
+            decimal NewNumber = 10.5m;
+            decimalNumber = NewNumber;
+            decimalNumber += decimalNumber / 2;
         }
     }
 }
