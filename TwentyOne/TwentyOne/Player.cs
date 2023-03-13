@@ -6,23 +6,23 @@ using System.Threading.Tasks;
 
 namespace TwentyOne
 {
-    public class Player
+    public class Player<T>
     {
-        public List<Card> Hand { get; set; }
+        public List<T> Hand { get; set; }
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivePlayer { get; set; }
 
-        public static Game operator+ (Game game, Player Player)
-        {
-            game.Players.Add(Player);
-            return game;
-        }
-        public static Game operator- (Game game, Player Player)
-        {
-            game.Players.Remove(Player);
-            return game;
-        }
+        //public static Game operator+ (Game game, Player Player)
+        //{
+        //    game.Players.Add(Player);
+        //    return game;
+        //}
+        //public static Game operator- (Game game, Player Player)
+        //{
+        //    game.Players.Remove(Player);
+        //    return game;
+        ////}
 
     }
 }
