@@ -11,13 +11,8 @@ namespace TwentyOne
         
         public void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            Player Player = new Player();
-            Player.Name = "Jessie";
-            game = game + Player;
-
-
-
+            Player<Card> player = new Player<Card>();
+            
             Deck deck = new Deck(); 
             deck.Shuffle(3);
 
